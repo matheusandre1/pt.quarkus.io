@@ -66,13 +66,13 @@ msgstr ""
 #. type: Hash Value: releases latest_patch
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "3.38.2"
+msgid "3.38.3"
 msgstr ""
 
 #. type: Hash Value: releases latest_patch_date
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "2026-08-13"
+msgid "2026-08-19"
 msgstr ""
 
 #. type: Hash Value: releases eol_date

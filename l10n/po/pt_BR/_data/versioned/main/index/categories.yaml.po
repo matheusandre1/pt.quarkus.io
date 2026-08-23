@@ -36,7 +36,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Creating Your First Application"
+msgid "Creating your first application"
 msgstr ""
 
 #. type: Hash Value: categories guides type
@@ -102,7 +102,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Using our Tooling"
+msgid "Using our tooling"
 msgstr ""
 
 #. type: Hash Value: categories id
@@ -132,7 +132,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Tools in your favorite IDE"
+msgid "Quarkus tools in your favorite IDE"
 msgstr ""
 
 #. type: Array Element: categories guides topics
@@ -180,7 +180,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Ahead-of-Time (AOT) Caching"
+msgid "Ahead-of-time (AOT) caching"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -207,7 +207,7 @@ msgstr ""
 msgid "performance"
 msgstr ""
 
-#. type: Hash Value: categories guides type
+#. type: Hash Value: pinned type
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "guide"
@@ -336,7 +336,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Re-augment a Quarkus Application"
+msgid "Re-augment a Quarkus application"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -378,7 +378,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Building a Native Executable"
+msgid "Building a native executable"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -426,7 +426,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Native Reference Guide"
+msgid "Native reference guide"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -486,7 +486,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Using SSL With Native Executables"
+msgid "Using SSL with native executables"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -594,7 +594,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Container Images"
+msgid "Container images"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -630,7 +630,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Base Runtime Image"
+msgid "Quarkus base runtime image"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -696,7 +696,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Generating and Using CycloneDX SBOMs"
+msgid "Generating and using CycloneDX SBOMs"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -726,7 +726,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Packaging And Releasing With JReleaser"
+msgid "Packaging and releasing with JReleaser"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -759,7 +759,7 @@ msgstr ""
 msgid "Core Quarkus concepts and features"
 msgstr ""
 
-#. type: Hash Value: categories subcategories guides categories
+#. type: Hash Value: pinned categories
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "core"
@@ -876,7 +876,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Application Initialization and Termination"
+msgid "Application initialization and termination"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -924,7 +924,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Dev Services Overview"
+msgid "Dev Services overview"
 msgstr ""
 
 #. type: Array Element: categories guides topics
@@ -1026,7 +1026,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Configuring Your Application"
+msgid "Configuring your application"
 msgstr ""
 
 #. type: Array Element: categories guides topics
@@ -1122,7 +1122,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Configuration Reference Guide"
+msgid "Configuration reference guide"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -1146,7 +1146,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Extending Configuration Support"
+msgid "Extending configuration support"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -1155,25 +1155,25 @@ msgstr ""
 msgid "/guides/config-extending-support"
 msgstr ""
 
-#. type: Hash Value: categories subcategories guides filename
+#. type: Hash Value: pinned filename
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "all-config.adoc"
 msgstr ""
 
-#. type: Hash Value: categories subcategories guides summary
+#. type: Hash Value: pinned summary
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "List all the configuration properties per extensions"
 msgstr ""
 
-#. type: Hash Value: categories subcategories guides title
+#. type: Hash Value: pinned title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "All configuration options"
 msgstr ""
 
-#. type: Hash Value: categories subcategories guides url
+#. type: Hash Value: pinned url
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "/guides/all-config"
@@ -1212,7 +1212,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Using Eclipse Vert.x API from a Quarkus Application"
+msgid "Using Eclipse Vert.x API from a Quarkus application"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -1236,7 +1236,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Vert.x Reference Guide"
+msgid "Vert.x reference guide"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -1272,7 +1272,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Testing Your Application"
+msgid "Testing your application"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -1296,7 +1296,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Continuous Testing"
+msgid "Continuous testing"
 msgstr ""
 
 #. type: Array Element: categories guides topics
@@ -1560,7 +1560,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "HTTP Reference"
+msgid "HTTP reference"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -1620,7 +1620,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "HTTP/3 Reference"
+msgid "HTTP/3 reference"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -1668,7 +1668,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Native Transport Reference"
+msgid "Native transport reference"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -1812,7 +1812,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Writing REST Services with Quarkus REST (formerly RESTEasy Reactive)"
+msgid "Writing REST services with Quarkus REST (formerly RESTEasy Reactive)"
 msgstr ""
 
 #. type: Array Element: categories guides topics
@@ -1890,7 +1890,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Writing JSON REST Services"
+msgid "Writing JSON REST services"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -2622,7 +2622,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Reactive SQL Clients"
+msgid "Reactive SQL clients"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -2646,7 +2646,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Dev Services for Databases"
+msgid "Dev Services for databases"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -3108,7 +3108,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Narayana LRA Participant Support"
+msgid "Narayana LRA participant support"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -3402,7 +3402,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Redis Extension Reference Guide"
+msgid "Redis extension reference guide"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -3558,7 +3558,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Application Data Caching"
+msgid "Application data caching"
 msgstr ""
 
 #. type: Array Element: categories guides topics
@@ -3684,7 +3684,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Infinispan Client Extension Reference Guide"
+msgid "Infinispan Client extension reference guide"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -3888,7 +3888,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Messaging Extensions"
+msgid "Quarkus Messaging extensions"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -3930,7 +3930,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Virtual Thread support with Reactive Messaging"
+msgid "Quarkus virtual thread support with Reactive Messaging"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -4152,7 +4152,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Getting Started with Quarkus Messaging and Apache Kafka"
+msgid "Getting started with Quarkus Messaging and Apache Kafka"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -4176,7 +4176,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Apache Kafka Reference Guide"
+msgid "Apache Kafka reference guide"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -4404,7 +4404,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Getting Started to Quarkus Messaging with AMQP 1.0"
+msgid "Getting started with Quarkus Messaging and AMQP 1.0"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -4434,7 +4434,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Reactive Messaging AMQP 1.0 Connector Reference Documentation"
+msgid "Reactive Messaging AMQP 1.0 Connector reference documentation"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -4500,7 +4500,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Getting Started to Quarkus Messaging with Apache Pulsar"
+msgid "Getting started with Quarkus Messaging and Apache Pulsar"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -4530,7 +4530,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Apache Pulsar Reference Guide"
+msgid "Apache Pulsar reference guide"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -4596,7 +4596,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Getting Started to Quarkus Messaging with RabbitMQ"
+msgid "Getting started with Quarkus Messaging and RabbitMQ"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -4626,7 +4626,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Reactive Messaging RabbitMQ Connector Reference Documentation"
+msgid "Reactive Messaging RabbitMQ Connector reference documentation"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -4830,7 +4830,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Security Tips and Tricks"
+msgid "Security tips and tricks"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -4962,7 +4962,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Cross-Site Request Forgery Prevention"
+msgid "Cross-Site Request Forgery prevention"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -4992,7 +4992,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Using Security with .properties File"
+msgid "Using security with .properties file"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -5022,7 +5022,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Security Testing"
+msgid "Security testing"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -5046,7 +5046,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Secrets in Configuration"
+msgid "Secrets in configuration"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -5070,7 +5070,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Using a Credentials Provider"
+msgid "Using a credentials provider"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -5388,7 +5388,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Using Security with WebAuthn"
+msgid "Using security with WebAuthn"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -5700,7 +5700,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus OpenId Connect (OIDC) Expanded Configuration Reference"
+msgid "Quarkus OpenID Connect (OIDC) expanded configuration reference"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -5736,7 +5736,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Configuring Well-Known OpenID Connect Providers"
+msgid "Configuring well-known OpenID Connect providers"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -6102,7 +6102,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Using Security with JDBC"
+msgid "Using security with JDBC"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -6126,7 +6126,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Using Security with an LDAP Realm"
+msgid "Using security with an LDAP realm"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -6264,7 +6264,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Virtual Thread support reference"
+msgid "Virtual thread support reference"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -6300,7 +6300,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Virtual Thread support for gRPC services"
+msgid "Quarkus virtual thread support for gRPC services"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -6342,7 +6342,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Getting Started With Reactive"
+msgid "Getting started with Reactive"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -6408,7 +6408,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Reactive Architecture"
+msgid "Quarkus reactive architecture"
 msgstr ""
 
 #. type: Array Element: categories guides topics
@@ -6450,7 +6450,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Context Propagation in Quarkus"
+msgid "Context propagation in Quarkus"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -6960,7 +6960,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "AWS Lambda SnapStart Configuration"
+msgid "AWS Lambda SnapStart configuration"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -6996,7 +6996,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Google Cloud Functions (Serverless)"
+msgid "Google Cloud Functions (serverless)"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -7146,7 +7146,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Funqy HTTP Binding (Standalone)"
+msgid "Funqy HTTP binding (standalone)"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -7176,7 +7176,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Funqy AWS Lambda Binding"
+msgid "Funqy AWS Lambda binding"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -7254,7 +7254,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Funqy HTTP Binding with Google Cloud Functions"
+msgid "Funqy HTTP binding with Google Cloud Functions"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -7278,7 +7278,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Funqy HTTP Binding with Azure Functions"
+msgid "Funqy HTTP binding with Azure Functions"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -7308,7 +7308,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Funqy Knative Events Binding"
+msgid "Funqy Knative events binding"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -7488,7 +7488,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Getting Started with SmallRye Stork"
+msgid "Getting started with SmallRye Stork"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -7554,7 +7554,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Stork Reference Guide"
+msgid "Stork reference guide"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -7608,7 +7608,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Implementing a Custom Stork Service Registrar"
+msgid "Implementing a custom Stork service registrar"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -7854,7 +7854,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Application Info Endpoint"
+msgid "Application info endpoint"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -7951,6 +7951,12 @@ msgstr ""
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "opentelemetry-logging.adoc"
+msgstr ""
+
+#. type: Hash Value: categories subcategories guides id
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "opentelemetry-logging"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides summary
@@ -8163,6 +8169,12 @@ msgstr ""
 msgid "opentelemetry-tracing.adoc"
 msgstr ""
 
+#. type: Hash Value: categories subcategories guides id
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "opentelemetry-tracing"
+msgstr ""
+
 #. type: Hash Value: categories subcategories guides summary
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
@@ -8185,6 +8197,12 @@ msgstr ""
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "opentelemetry-metrics.adoc"
+msgstr ""
+
+#. type: Hash Value: categories subcategories guides id
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "opentelemetry-metrics"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides summary
@@ -8490,7 +8508,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Load Shedding reference guide"
+msgid "Load shedding reference guide"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -8586,7 +8604,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Getting Started with gRPC"
+msgid "Getting started with gRPC"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -8610,7 +8628,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Implementing a gRPC Service"
+msgid "Implementing a gRPC service"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -8634,7 +8652,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Consuming a gRPC Service"
+msgid "Consuming a gRPC service"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -8742,7 +8760,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Deploying your gRPC Service in Kubernetes"
+msgid "Deploying your gRPC service in Kubernetes"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -8790,7 +8808,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Command Mode Applications"
+msgid "Command mode applications"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -8820,7 +8838,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Command Mode with Picocli"
+msgid "Command mode with Picocli"
 msgstr ""
 
 #. type: Array Element: categories guides topics
@@ -8868,7 +8886,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Command Mode with Aesh"
+msgid "Command mode with Aesh"
 msgstr ""
 
 #. type: Array Element: categories guides topics
@@ -9012,7 +9030,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Mailer Reference Guide"
+msgid "Mailer reference guide"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -9054,7 +9072,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Scheduling Periodic Tasks"
+msgid "Scheduling periodic tasks"
 msgstr ""
 
 #. type: Array Element: categories guides topics
@@ -9090,7 +9108,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Scheduler Reference Guide"
+msgid "Scheduler reference guide"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -9120,7 +9138,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Scheduling Periodic Tasks with Quartz"
+msgid "Scheduling periodic tasks with Quartz"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -9180,7 +9198,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Qute Templating Engine"
+msgid "Qute templating engine"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -9210,7 +9228,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Qute Reference Guide"
+msgid "Qute reference guide"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -9324,7 +9342,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Maven Plugin"
+msgid "Quarkus Maven plugin"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -9462,7 +9480,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Extension for Spring DI API"
+msgid "Quarkus extension for Spring DI API"
 msgstr ""
 
 #. type: Array Element: categories guides topics
@@ -9498,7 +9516,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Extension for Spring Web API"
+msgid "Quarkus extension for Spring Web API"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -9558,7 +9576,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Extension for Spring Transaction API"
+msgid "Quarkus extension for Spring Transaction API"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -9618,7 +9636,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Extension for Spring Security API"
+msgid "Quarkus extension for Spring Security API"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -9648,7 +9666,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Extension for Spring Cache API"
+msgid "Quarkus extension for Spring Cache API"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -9678,7 +9696,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Extension for Spring Scheduling API"
+msgid "Quarkus extension for Spring Scheduling API"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -9768,7 +9786,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Testing Spring-style Applications in Quarkus"
+msgid "Testing Spring-style applications in Quarkus"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -9936,7 +9954,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Class Loading Reference"
+msgid "Class loading reference"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -10044,7 +10062,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Extension Registry"
+msgid "Quarkus extension registry"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -10068,7 +10086,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Measuring Performance"
+msgid "Measuring performance"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -10110,7 +10128,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Writing Your Own Extension"
+msgid "Writing your own extension"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -10158,7 +10176,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus Extension Metadata"
+msgid "Quarkus extension metadata"
 msgstr ""
 
 #. type: Array Element: categories guides topics
@@ -10188,7 +10206,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Extension Capabilities"
+msgid "Extension capabilities"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -10212,7 +10230,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "CDI Integration Guide"
+msgid "CDI integration guide"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -10236,7 +10254,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Conditional Extension Dependencies"
+msgid "Conditional extension dependencies"
 msgstr ""
 
 #. type: Hash Value: categories guides url
@@ -10260,7 +10278,7 @@ msgstr ""
 #. type: Hash Value: categories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Build Items"
+msgid "Build items"
 msgstr ""
 
 #. type: Hash Value: categories guides url
