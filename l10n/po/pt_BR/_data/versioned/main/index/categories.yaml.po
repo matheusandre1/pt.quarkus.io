@@ -2739,6 +2739,30 @@ msgstr ""
 msgid "/guides/quarkus-data-hibernate"
 msgstr ""
 
+#. type: Hash Value: categories subcategories guides filename
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "quarkus-data-hibernate-getting-started.adoc"
+msgstr ""
+
+#. type: Hash Value: categories subcategories guides summary
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "A step-by-step guide to database access in Quarkus"
+msgstr ""
+
+#. type: Hash Value: categories subcategories guides title
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "Getting Started with Quarkus Data Hibernate"
+msgstr ""
+
+#. type: Hash Value: categories subcategories guides url
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "/guides/quarkus-data-hibernate-getting-started"
+msgstr ""
+
 #. type: Array Element: categories subcategories guides extensions
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
@@ -4977,6 +5001,12 @@ msgstr ""
 msgid "/guides/security-csrf-prevention"
 msgstr ""
 
+#. type: Array Element: categories subcategories guides extensions
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "io.quarkus:quarkus-elytron-security-properties-file"
+msgstr ""
+
 #. type: Hash Value: categories subcategories guides filename
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
@@ -4986,13 +5016,19 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides summary
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Quarkus provides support for properties file-based authentication intended for development and testing purposes."
+msgid "This guide demonstrates how your Quarkus application can use a .properties file to store your user identities."
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "Using security with .properties file"
+msgstr ""
+
+#. type: Array Element: categories subcategories guides topics
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "identity-providers"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url
@@ -5199,12 +5235,6 @@ msgstr ""
 msgid "io.quarkus:quarkus-security-jpa"
 msgstr ""
 
-#. type: Array Element: categories subcategories guides extensions
-#: _data/versioned/main/index/categories.yaml:1
-#, no-wrap
-msgid "io.quarkus:quarkus-elytron-security-properties-file"
-msgstr ""
-
 #. type: Hash Value: categories subcategories guides filename
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
@@ -5347,12 +5377,6 @@ msgstr ""
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "oauth2"
-msgstr ""
-
-#. type: Array Element: categories subcategories guides topics
-#: _data/versioned/main/index/categories.yaml:1
-#, no-wrap
-msgid "identity-providers"
 msgstr ""
 
 #. type: Hash Value: categories subcategories guides url

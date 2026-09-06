@@ -66,7 +66,13 @@ msgstr ""
 #. type: Hash Value: releases latest_patch
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "3.39.1"
+msgid "3.39.2"
+msgstr ""
+
+#. type: Hash Value: releases latest_patch_date
+#: _data/releases.yaml:1
+#, no-wrap
+msgid "2026-09-03"
 msgstr ""
 
 #. type: Hash Value: releases eol_date
@@ -234,13 +240,7 @@ msgstr "30 de junho de 2028"
 #. type: Hash Value: releases latest_patch
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "3.33.3.1"
-msgstr ""
-
-#. type: Hash Value: releases latest_patch_date
-#: _data/releases.yaml:1
-#, no-wrap
-msgid "2026-08-04"
+msgid "3.33.3.2"
 msgstr ""
 
 #. type: Hash Value: releases link
@@ -408,7 +408,13 @@ msgstr "31 de dezembro de 2027"
 #. type: Hash Value: releases latest_patch
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "3.27.5.1"
+msgid "3.27.5.2"
+msgstr ""
+
+#. type: Hash Value: releases latest_patch_date
+#: _data/releases.yaml:1
+#, no-wrap
+msgid "2026-09-04"
 msgstr ""
 
 #. type: Hash Value: releases version
