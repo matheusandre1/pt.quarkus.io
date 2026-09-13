@@ -168,6 +168,72 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides filename
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
+msgid "packaging.adoc"
+msgstr ""
+
+#. type: Hash Value: categories subcategories guides summary
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "An overview of the different ways to package a Quarkus application (JARs, uber-JARs, AOT caching, jlink images, native executables, and container images) with guidance on choosing the right option for your workload."
+msgstr ""
+
+#. type: Hash Value: categories subcategories guides title
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "Packaging overview"
+msgstr ""
+
+#. type: Array Element: categories subcategories guides topics
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "jar"
+msgstr ""
+
+#. type: Array Element: categories subcategories guides topics
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "uber-jar"
+msgstr ""
+
+#. type: Array Element: categories subcategories guides topics
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "native"
+msgstr ""
+
+#. type: Array Element: categories subcategories guides topics
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "aot"
+msgstr ""
+
+#. type: Array Element: categories subcategories guides topics
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "jlink"
+msgstr ""
+
+#. type: Array Element: categories subcategories guides topics
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "container"
+msgstr ""
+
+#. type: Hash Value: categories guides type
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "concepts"
+msgstr ""
+
+#. type: Hash Value: categories subcategories guides url
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "/guides/packaging"
+msgstr ""
+
+#. type: Hash Value: categories subcategories guides filename
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
 msgid "aot.adoc"
 msgstr ""
 
@@ -181,12 +247,6 @@ msgstr ""
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "Ahead-of-time (AOT) caching"
-msgstr ""
-
-#. type: Array Element: categories subcategories guides topics
-#: _data/versioned/main/index/categories.yaml:1
-#, no-wrap
-msgid "aot"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -240,12 +300,6 @@ msgstr ""
 #. type: Array Element: categories subcategories guides topics
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "jar"
-msgstr ""
-
-#. type: Array Element: categories subcategories guides topics
-#: _data/versioned/main/index/categories.yaml:1
-#, no-wrap
 msgid "tree-shaking"
 msgstr ""
 
@@ -271,12 +325,6 @@ msgstr ""
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "jlink.adoc"
-msgstr ""
-
-#. type: Array Element: categories subcategories guides topics
-#: _data/versioned/main/index/categories.yaml:1
-#, no-wrap
-msgid "jlink"
 msgstr ""
 
 #. type: Hash Value: categories guides status
@@ -379,12 +427,6 @@ msgstr ""
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "Building a native executable"
-msgstr ""
-
-#. type: Array Element: categories subcategories guides topics
-#: _data/versioned/main/index/categories.yaml:1
-#, no-wrap
-msgid "native"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -4737,12 +4779,6 @@ msgstr ""
 msgid "Quarkus Security overview"
 msgstr ""
 
-#. type: Hash Value: categories guides type
-#: _data/versioned/main/index/categories.yaml:1
-#, no-wrap
-msgid "concepts"
-msgstr ""
-
 #. type: Hash Value: categories subcategories guides url
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
@@ -8106,6 +8142,12 @@ msgstr ""
 #. type: Array Element: categories subcategories guides extensions
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
+msgid "io.quarkus:quarkus-observation"
+msgstr ""
+
+#. type: Array Element: categories subcategories guides extensions
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
 msgid "io.quarkus:quarkus-jfr"
 msgstr ""
 
@@ -8125,6 +8167,12 @@ msgstr ""
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "Observability in Quarkus"
+msgstr ""
+
+#. type: Array Element: categories subcategories guides topics
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "observation"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics
@@ -8455,6 +8503,30 @@ msgstr ""
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
 msgid "/guides/observability-devservices-lgtm"
+msgstr ""
+
+#. type: Hash Value: categories subcategories guides filename
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "telemetry-micrometer-observation.adoc"
+msgstr ""
+
+#. type: Hash Value: categories subcategories guides summary
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "Use the Micrometer Observation API to produce correlated traces and metrics from a single instrumentation point."
+msgstr ""
+
+#. type: Hash Value: categories subcategories guides title
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "Micrometer Observation API"
+msgstr ""
+
+#. type: Hash Value: categories subcategories guides url
+#: _data/versioned/main/index/categories.yaml:1
+#, no-wrap
+msgid "/guides/telemetry-micrometer-observation"
 msgstr ""
 
 #. type: Hash Value: categories subcategories id
