@@ -3021,12 +3021,6 @@ msgstr "io.quarkus:quarkus-redis-client"
 msgid "redis-dev-services.adoc"
 msgstr "redis-dev-services.adoc"
 
-#. type: Hash Value: types reference status
-#: _data/versioned/latest/index/quarkus.yaml:1
-#, fuzzy, no-wrap
-msgid "stable"
-msgstr "estável"
-
 #. type: Hash Value: types guide summary
 #: _data/versioned/latest/index/quarkus.yaml:1
 #, no-wrap
@@ -7019,9 +7013,9 @@ msgstr "native-and-ssl.adoc"
 
 #. type: Hash Value: types guide summary
 #: _data/versioned/latest/index/quarkus.yaml:1
-#, fuzzy, no-wrap
-msgid "In this guide, we will discuss how you can get your native images to support SSL, as native images don't support it out of the box."
-msgstr "Neste guia, discutiremos como você pode fazer com que suas imagens nativas sejam compatíveis com SSL, já que elas não oferecem suporte a esse protocolo por padrão."
+#, no-wrap
+msgid "TLS works in native executables out of the box."
+msgstr ""
 
 #. type: Hash Value: types guide title
 #: _data/versioned/latest/index/quarkus.yaml:1

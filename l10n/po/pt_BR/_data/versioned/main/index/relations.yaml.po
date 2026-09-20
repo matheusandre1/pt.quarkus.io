@@ -1944,8 +1944,8 @@ msgstr "/guides/kubernetes-config"
 #. type: Hash Value: /guides/spring-cloud-config-client sameTopics title
 #: _data/versioned/main/index/relations.yaml:1
 #, no-wrap
-msgid "Mapping configuration to objects"
-msgstr "Mapeando configuração para objetos"
+msgid "Mapping Configuration to Objects"
+msgstr ""
 
 #. type: Hash Value: /guides/spring-cloud-config-client sameTopics url
 #: _data/versioned/main/index/relations.yaml:1
@@ -2120,6 +2120,18 @@ msgstr "Migrar do Vert.x OIDC para o Quarkus OIDC"
 #, no-wrap
 msgid "/guides/security-vertx-oidc-to-quarkus-oidc-migration"
 msgstr "/guides/security-vertx-oidc-to-quarkus-oidc-migration"
+
+#. type: Hash Value: /guides/tls-registry-reference sameTopics title
+#: _data/versioned/main/index/relations.yaml:1
+#, no-wrap
+msgid "OAuth Client ID Metadata Document"
+msgstr ""
+
+#. type: Hash Value: /guides/tls-registry-reference sameTopics url
+#: _data/versioned/main/index/relations.yaml:1
+#, no-wrap
+msgid "/guides/security-oidc-client-id-metadata-document"
+msgstr ""
 
 #. type: Hash Value: /guides/tls-registry-reference sameTopics title
 #: _data/versioned/main/index/relations.yaml:1
