@@ -1,5 +1,5 @@
 Filename, Fuzzy Messages, Total Messages, Fuzzy Words, Total Words, Achievement
-l10n/po/pt_BR/_data/wg.yaml.po, 265, 265, 14631, 14631, 0%
+l10n/po/pt_BR/_data/wg.yaml.po, 264, 264, 14607, 14607, 0%
 l10n/po/pt_BR/_data/versioned/main/index/categories.yaml.po, 1810, 1810, 6836, 6836, 0%
 l10n/po/pt_BR/_data/versioned/latest/index/categories.yaml.po, 1770, 1770, 6707, 6707, 0%
 l10n/po/pt_BR/_data/versioned/3-34/index/quarkus.yaml.po, 954, 1581, 5527, 6177, 11%
@@ -8,7 +8,7 @@ l10n/po/pt_BR/_data/versioned/latest/index/quarkus.yaml.po, 833, 1657, 4369, 648
 l10n/po/pt_BR/_data/versioned/3-33/index/quarkus.yaml.po, 707, 1581, 3765, 6176, 40%
 l10n/po/pt_BR/_data/versioned/3-27/index/quarkus.yaml.po, 694, 1563, 3681, 6099, 40%
 l10n/po/pt_BR/_data/versioned/3-20/index/quarkus.yaml.po, 681, 1537, 3612, 6016, 40%
-l10n/po/pt_BR/_data/insights-videos.yaml.po, 929, 981, 3563, 3670, 3%
+l10n/po/pt_BR/_data/insights-videos.yaml.po, 930, 982, 3564, 3671, 3%
 l10n/po/pt_BR/_data/versioned/3-15/index/quarkus.yaml.po, 647, 1478, 3396, 5845, 42%
 l10n/po/pt_BR/_data/versioned/3-8/index/quarkus.yaml.po, 554, 1341, 2848, 5359, 47%
 l10n/po/pt_BR/_data/versioned/3-6/index/quarkus.yaml.po, 540, 1329, 2729, 5304, 49%
@@ -34,7 +34,7 @@ l10n/po/pt_BR/_includes/benefactors.html.po, 32, 32, 530, 530, 0%
 l10n/po/pt_BR/_data/versioned/3-6/index/relations.yaml.po, 117, 444, 526, 1183, 56%
 l10n/po/pt_BR/_data/contributors.yaml.po, 358, 358, 520, 520, 0%
 l10n/po/pt_BR/_includes/ai-frozenrag.html.po, 25, 25, 501, 501, 0%
-l10n/po/pt_BR/_data/releases.yaml.po, 413, 413, 498, 498, 0%
+l10n/po/pt_BR/_data/releases.yaml.po, 412, 412, 497, 497, 0%
 l10n/po/pt_BR/_includes/working-group-band.html.po, 34, 34, 481, 481, 0%
 l10n/po/pt_BR/_includes/ai-java-for-ai.html.po, 38, 38, 459, 459, 0%
 l10n/po/pt_BR/_includes/continuum.html.po, 12, 42, 412, 1346, 70%
@@ -62,6 +62,7 @@ l10n/po/pt_BR/_data/versioned/3-8/index/quarkiverse.yaml.po, 22, 102, 135, 597, 
 l10n/po/pt_BR/_data/versioned/latest/index/quarkiverse.yaml.po, 22, 102, 135, 597, 78%
 l10n/po/pt_BR/_data/versioned/main/index/quarkiverse.yaml.po, 22, 102, 135, 597, 78%
 l10n/po/pt_BR/_data/katakodalist.yaml.po, 16, 17, 122, 135, 10%
+l10n/po/pt_BR/_data/workshops.yaml.po, 24, 24, 113, 113, 0%
 l10n/po/pt_BR/_includes/homepage-commonhaus-band.html.po, 5, 5, 111, 111, 0%
 l10n/po/pt_BR/_data/guides-latest.yaml.po, 44, 711, 108, 4385, 98%
 l10n/po/pt_BR/_data/guides-2-13.yaml.po, 40, 707, 104, 4381, 98%
@@ -70,6 +71,7 @@ l10n/po/pt_BR/_includes/publication-entries.html.po, 12, 12, 81, 81, 0%
 l10n/po/pt_BR/_includes/project-footer.html.po, 14, 14, 77, 77, 0%
 l10n/po/pt_BR/_includes/get-started-band-lightblue.html.po, 9, 9, 76, 76, 0%
 l10n/po/pt_BR/_includes/get-started-band.html.po, 10, 10, 76, 76, 0%
+l10n/po/pt_BR/_data/siteConfig.yml.po, 28, 28, 75, 75, 0%
 l10n/po/pt_BR/_includes/insights-band.html.po, 10, 10, 68, 68, 0%
 l10n/po/pt_BR/_includes/userstories-band.html.po, 11, 11, 67, 67, 0%
 l10n/po/pt_BR/_includes/about.html.po, 8, 16, 66, 271, 76%
@@ -83,7 +85,6 @@ l10n/po/pt_BR/_includes/homepage-ai-band.html.po, 4, 4, 37, 37, 0%
 l10n/po/pt_BR/_includes/training-band.html.po, 10, 10, 37, 37, 0%
 l10n/po/pt_BR/_data/cheatsheets.yaml.po, 11, 11, 34, 34, 0%
 l10n/po/pt_BR/_data/event_worldtour_hero.yaml.po, 2, 2, 34, 34, 0%
-l10n/po/pt_BR/_data/siteConfig.yml.po, 27, 27, 32, 32, 0%
 l10n/po/pt_BR/_includes/homepage-imperative_and_reactive-band.html.po, 2, 6, 24, 46, 48%
 l10n/po/pt_BR/_includes/newsletter-band.html.po, 6, 6, 24, 24, 0%
 l10n/po/pt_BR/_data/publication-entries.yaml.po, 1, 1, 21, 21, 0%
