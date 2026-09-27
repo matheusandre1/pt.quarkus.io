@@ -15,24 +15,6 @@ msgstr ""
 msgid "Scheduled Podcasts"
 msgstr "Podcasts programados"
 
-#. type: Hash Value: nextsessionguest
-#: _data/insights-videos.yaml:1
-#, no-wrap
-msgid "Ståle Pedersen & Max Andersen"
-msgstr ""
-
-#. type: Hash Value: futurevideos date
-#: _data/insights-videos.yaml:1
-#, no-wrap
-msgid "September 21st, 2026"
-msgstr ""
-
-#. type: Hash Value: nextsessiontitle
-#: _data/insights-videos.yaml:1
-#, no-wrap
-msgid "Episode #260: Quarkus and CLI Applications"
-msgstr ""
-
 #. type: Hash Value: pastvideos authors
 #: _data/insights-videos.yaml:1
 #, no-wrap
@@ -45,7 +27,7 @@ msgstr "Martin Kouba"
 msgid "September 28th, 2026"
 msgstr ""
 
-#. type: Hash Value: futurevideos title
+#. type: Hash Value: nextsessiontitle
 #: _data/insights-videos.yaml:1
 #, no-wrap
 msgid "Episode #261: What is Quarkus Signals?"
@@ -90,7 +72,7 @@ msgstr ""
 #. type: Hash Value: nextsessiondate
 #: _data/insights-videos.yaml:1
 #, no-wrap
-msgid "2026-09-21T13:00Z"
+msgid "2026-09-28T13:00Z"
 msgstr ""
 
 #. type: Hash Value: pastheadline
@@ -98,6 +80,30 @@ msgstr ""
 #, fuzzy, no-wrap
 msgid "Archived Podcast Videos"
 msgstr "Vídeos de podcast arquivados"
+
+#. type: Hash Value: pastvideos authors
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "Ståle Pedersen & Max Andersen"
+msgstr ""
+
+#. type: Hash Value: pastvideos date
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "September 21st, 2026"
+msgstr ""
+
+#. type: Hash Value: pastvideos link
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "https://www.youtube.com/watch?v=EXIFCPFB3kQ"
+msgstr ""
+
+#. type: Hash Value: pastvideos title
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "Episode #260: Quarkus and CLI Applications"
+msgstr ""
 
 #. type: Hash Value: pastvideos authors
 #: _data/insights-videos.yaml:1
