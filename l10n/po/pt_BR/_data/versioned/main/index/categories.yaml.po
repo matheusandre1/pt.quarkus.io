@@ -2766,7 +2766,7 @@ msgstr ""
 #. type: Hash Value: categories subcategories guides title
 #: _data/versioned/main/index/categories.yaml:1
 #, no-wrap
-msgid "Simplified Hibernate with Quarkus Data Hibernate"
+msgid "Quarkus Data Hibernate reference guide"
 msgstr ""
 
 #. type: Array Element: categories subcategories guides topics

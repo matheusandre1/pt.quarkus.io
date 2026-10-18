@@ -60,7 +60,7 @@ msgstr "até a próxima versão secundária"
 #. type: Hash Value: releases version
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "3.41"
+msgid "4.0.0"
 msgstr ""
 
 #. type: Hash Value: releases eol_date

@@ -4680,6 +4680,42 @@ msgstr "/guides/platform"
 #. type: Array Element: types guide extensions
 #: _data/versioned/main/index/quarkus.yaml:1
 #, fuzzy, no-wrap
+msgid "io.quarkus:quarkus-hibernate-orm"
+msgstr "io.quarkus:quarkus-hibernate-orm"
+
+#. type: Array Element: types guide extensions
+#: _data/versioned/main/index/quarkus.yaml:1
+#, fuzzy, no-wrap
+msgid "io.quarkus:quarkus-hibernate-reactive"
+msgstr "io.quarkus:quarkus-hibernate-reactive"
+
+#. type: Hash Value: types guide filename
+#: _data/versioned/main/index/quarkus.yaml:1
+#, no-wrap
+msgid "quarkus-data-hibernate.adoc"
+msgstr "quarkus-data-hibernate.adoc"
+
+#. type: Hash Value: types guide summary
+#: _data/versioned/main/index/quarkus.yaml:1
+#, fuzzy, no-wrap
+msgid "Hibernate is the de facto Jakarta Persistence implementation and offers you the full breadth of an Object Relational Mapper."
+msgstr "O Hibernate é a implementação padrão do Jakarta Persistence e oferece a você todas as funcionalidades de um mapeador objeto-relacional."
+
+#. type: Hash Value: types guide title
+#: _data/versioned/main/index/quarkus.yaml:1
+#, no-wrap
+msgid "Quarkus Data Hibernate reference guide"
+msgstr ""
+
+#. type: Hash Value: types guide url
+#: _data/versioned/main/index/quarkus.yaml:1
+#, no-wrap
+msgid "/guides/quarkus-data-hibernate"
+msgstr "/guides/quarkus-data-hibernate"
+
+#. type: Array Element: types guide extensions
+#: _data/versioned/main/index/quarkus.yaml:1
+#, fuzzy, no-wrap
 msgid "io.quarkus:quarkus-messaging"
 msgstr "io.quarkus:quarkus-messaging"
 
@@ -5799,12 +5835,6 @@ msgstr "/guides/mailer"
 msgid "io.quarkus:quarkus-hibernate-orm-panache"
 msgstr "io.quarkus:quarkus-hibernate-orm-panache"
 
-#. type: Array Element: types guide extensions
-#: _data/versioned/main/index/quarkus.yaml:1
-#, fuzzy, no-wrap
-msgid "io.quarkus:quarkus-hibernate-orm"
-msgstr "io.quarkus:quarkus-hibernate-orm"
-
 #. type: Hash Value: types guide filename
 #: _data/versioned/main/index/quarkus.yaml:1
 #, no-wrap
@@ -5871,12 +5901,6 @@ msgstr "/guides/hibernate-orm-panache-kotlin"
 msgid "io.quarkus:quarkus-hibernate-reactive-panache"
 msgstr "io.quarkus:quarkus-hibernate-reactive-panache"
 
-#. type: Array Element: types guide extensions
-#: _data/versioned/main/index/quarkus.yaml:1
-#, fuzzy, no-wrap
-msgid "io.quarkus:quarkus-hibernate-reactive"
-msgstr "io.quarkus:quarkus-hibernate-reactive"
-
 #. type: Hash Value: types guide filename
 #: _data/versioned/main/index/quarkus.yaml:1
 #, no-wrap
@@ -5900,30 +5924,6 @@ msgstr "Hibernate Reativo Simplificado com Panache"
 #, no-wrap
 msgid "/guides/hibernate-reactive-panache"
 msgstr "/guides/hibernate-reactive-panache"
-
-#. type: Hash Value: types guide filename
-#: _data/versioned/main/index/quarkus.yaml:1
-#, no-wrap
-msgid "quarkus-data-hibernate.adoc"
-msgstr "quarkus-data-hibernate.adoc"
-
-#. type: Hash Value: types guide summary
-#: _data/versioned/main/index/quarkus.yaml:1
-#, fuzzy, no-wrap
-msgid "Hibernate is the de facto Jakarta Persistence implementation and offers you the full breadth of an Object Relational Mapper."
-msgstr "O Hibernate é a implementação padrão do Jakarta Persistence e oferece a você todas as funcionalidades de um mapeador objeto-relacional."
-
-#. type: Hash Value: types guide title
-#: _data/versioned/main/index/quarkus.yaml:1
-#, fuzzy, no-wrap
-msgid "Simplified Hibernate with Quarkus Data Hibernate"
-msgstr "Hibernate simplificado com o Quarkus Data Hibernate"
-
-#. type: Hash Value: types guide url
-#: _data/versioned/main/index/quarkus.yaml:1
-#, no-wrap
-msgid "/guides/quarkus-data-hibernate"
-msgstr "/guides/quarkus-data-hibernate"
 
 #. type: Array Element: types guide extensions
 #: _data/versioned/main/index/quarkus.yaml:1

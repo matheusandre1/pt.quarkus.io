@@ -1212,6 +1212,18 @@ msgstr "/guides/lra"
 #. type: Hash Value: /guides/transaction sameTopics title
 #: _data/versioned/main/index/relations.yaml:1
 #, no-wrap
+msgid "Quarkus Data Hibernate reference guide"
+msgstr ""
+
+#. type: Hash Value: /guides/transaction sameTopics url
+#: _data/versioned/main/index/relations.yaml:1
+#, no-wrap
+msgid "/guides/quarkus-data-hibernate"
+msgstr "/guides/quarkus-data-hibernate"
+
+#. type: Hash Value: /guides/transaction sameTopics title
+#: _data/versioned/main/index/relations.yaml:1
+#, no-wrap
 msgid "Reactive SQL clients"
 msgstr ""
 
@@ -1268,18 +1280,6 @@ msgstr "Hibernate Reativo Simplificado com Panache"
 #, no-wrap
 msgid "/guides/hibernate-reactive-panache"
 msgstr "/guides/hibernate-reactive-panache"
-
-#. type: Hash Value: /guides/transaction sameTopics title
-#: _data/versioned/main/index/relations.yaml:1
-#, fuzzy, no-wrap
-msgid "Simplified Hibernate with Quarkus Data Hibernate"
-msgstr "Hibernate simplificado com o Quarkus Data Hibernate"
-
-#. type: Hash Value: /guides/transaction sameTopics url
-#: _data/versioned/main/index/relations.yaml:1
-#, no-wrap
-msgid "/guides/quarkus-data-hibernate"
-msgstr "/guides/quarkus-data-hibernate"
 
 #. type: Hash Value: /guides/transaction sameTopics title
 #: _data/versioned/main/index/relations.yaml:1

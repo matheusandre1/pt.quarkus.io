@@ -15,24 +15,6 @@ msgstr ""
 msgid "Scheduled Podcasts"
 msgstr "Podcasts programados"
 
-#. type: Hash Value: nextsessionguest
-#: _data/insights-videos.yaml:1
-#, no-wrap
-msgid "Teymur Babayev, Guillaume Smet, & Ladislav Thon"
-msgstr ""
-
-#. type: Hash Value: futurevideos date
-#: _data/insights-videos.yaml:1
-#, no-wrap
-msgid "October 12th, 2026"
-msgstr ""
-
-#. type: Hash Value: nextsessiontitle
-#: _data/insights-videos.yaml:1
-#, no-wrap
-msgid "Episode #263: Everything you didn't want to know about Quarkus build reproducibility"
-msgstr ""
-
 #. type: Hash Value: pastvideos authors
 #: _data/insights-videos.yaml:1
 #, no-wrap
@@ -45,7 +27,7 @@ msgstr "Ronald Dehuysser"
 msgid "October 19th, 2026"
 msgstr ""
 
-#. type: Hash Value: futurevideos title
+#. type: Hash Value: nextsessiontitle
 #: _data/insights-videos.yaml:1
 #, no-wrap
 msgid "Episode #264: JobRunr 9 on Quarkus 3.40 LTS: what happens when a job fails halfway"
@@ -240,7 +222,7 @@ msgstr ""
 #. type: Hash Value: nextsessiondate
 #: _data/insights-videos.yaml:1
 #, no-wrap
-msgid "2026-10-12T13:00Z"
+msgid "2026-10-19T13:00Z"
 msgstr ""
 
 #. type: Hash Value: pastheadline
@@ -248,6 +230,30 @@ msgstr ""
 #, fuzzy, no-wrap
 msgid "Archived Podcast Videos"
 msgstr "Vídeos de podcast arquivados"
+
+#. type: Hash Value: pastvideos authors
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "Teymur Babayev, Guillaume Smet, & Ladislav Thon"
+msgstr ""
+
+#. type: Hash Value: pastvideos date
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "October 12th, 2026"
+msgstr ""
+
+#. type: Hash Value: pastvideos link
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "https://www.youtube.com/watch?v=8cZ-oc6ma9g"
+msgstr ""
+
+#. type: Hash Value: pastvideos title
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "Episode #263: Everything you didn't want to know about Quarkus build reproducibility"
+msgstr ""
 
 #. type: Hash Value: pastvideos authors
 #: _data/insights-videos.yaml:1
